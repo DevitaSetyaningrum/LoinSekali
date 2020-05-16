@@ -1,0 +1,2 @@
+rootProject.name='LoinSekali'
+include ':app'
